@@ -2,7 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 dataDir = '../DATA/world-population/'
-filename = dataDir + 'world_population_v2020.csv'
     
 filename = dataDir + 'UN2019-population-projection-world-Low.csv'
 year,pop = np.loadtxt(filename, delimiter=',',unpack=True,
