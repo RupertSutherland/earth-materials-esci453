@@ -46,4 +46,6 @@ plt.xlabel('Year')
 plt.ylabel('Energy consumption (MWh/yr)')
 plt.legend()
 
+np.save('energy2100quadratic.npy', energyExtrapolated)
+np.save('energy2100model1.npy', modelEnergy)
            
