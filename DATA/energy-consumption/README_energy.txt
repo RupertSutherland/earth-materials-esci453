@@ -1,4 +1,5 @@
 https://ourworldindata.org/energy
+Energy use per capita is in units of kWh/yr
 
 Renewable energy
 https://www.irena.org/Statistics
