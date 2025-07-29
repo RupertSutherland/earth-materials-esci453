@@ -1,0 +1,16 @@
+region,category,parameter,mode,powertrain,year,unit,value
+World,Historical,EV stock,Cars,BEV,2010,Vehicles,20000.0
+World,Historical,EV stock,Cars,BEV,2011,Vehicles,58000.0
+World,Historical,EV stock,Cars,BEV,2012,Vehicles,120000.0
+World,Historical,EV stock,Cars,BEV,2013,Vehicles,230000.0
+World,Historical,EV stock,Cars,BEV,2014,Vehicles,410000.0
+World,Historical,EV stock,Cars,BEV,2015,Vehicles,730000.0
+World,Historical,EV stock,Cars,BEV,2016,Vehicles,1200000.0
+World,Historical,EV stock,Cars,BEV,2017,Vehicles,1900000.0
+World,Historical,EV stock,Cars,BEV,2018,Vehicles,3200000.0
+World,Historical,EV stock,Cars,BEV,2019,Vehicles,4800000.0
+World,Historical,EV stock,Cars,BEV,2020,Vehicles,6800000.0
+World,Historical,EV stock,Cars,BEV,2021,Vehicles,11000000.0
+World,Historical,EV stock,Cars,BEV,2022,Vehicles,18000000.0
+World,Historical,EV stock,Cars,BEV,2023,Vehicles,28000000.0
+World,Historical,EV stock,Cars,BEV,2024,Vehicles,39000000.0
